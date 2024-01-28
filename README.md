@@ -1,5 +1,5 @@
 # 💫 About Me:
-Team Lead, MIST Mars Rover-[Mongol Barota]<br>Founder and Joint Secretary, MIST Cyber Security Club<br>
+Team Lead, MIST Mars Rover-[Mongol Barota]<br>Founder and Joint Secretary, MIST Cyber Security Club<br>Former ICT Teacher, 10 Minute School<br>
 
 
 # 💻 Tech Stack:
