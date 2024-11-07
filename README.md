@@ -1,5 +1,8 @@
 # 💫 About Me:
-Team Lead, Bored Tunnelers<br>Team Lead, MIST Mars Rover-[Mongol Barota]<br>Founder and Joint Secretary, MIST Cyber Security Club<br>Former ICT Teacher, 10 Minute School<br>
+Team Lead, <a href="https://www.boredtunnelers.com/" target="_blank">Bored Tunnelers</a><br>
+Team Lead, MIST Mars Rover - [Mongol Barota]<br>
+Founder and Joint Secretary, MIST Cyber Security Club<br>
+Former ICT Teacher, 10 Minute School<br>
 
 
 # 💻 Tech Stack:
